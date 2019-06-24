@@ -1,15 +1,15 @@
 # Site
-title:              Lan(Lissie) Mei
-bio:                'A creative place of Lissie. Find my projects in the button below ;)'
+title:              Yuwei Yao
+bio:                'Whatever is worth doing is worth doing well.'
 description:        " "
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/profile.jpg'
-#logo:               'assets/img/22.jpg'
+logo:               'assets/img/myphoto.jpg'
+#logo:               'assets/img/myphoto.jpg'
 background:         'assets/img/tokyo-tower_.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://lmei33.github.io
+url:                https://yuweiyao.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -38,12 +38,12 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              lmei@ucdavis.edu
+email:              yyao06@email.wm.edu
 #twitter:            username
 #facebook:           username
-github-url:         lmei33
+github-url:         YuweiYao
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          lan-mei
+linkedin:          yuwei-yao
 #xing:              username
 #instagram:         username
 #lastfm:            username
